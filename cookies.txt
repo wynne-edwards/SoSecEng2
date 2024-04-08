@@ -1,0 +1,6 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+printmyphotosgrahamstown.photofrog.co.za	TRUE	/	FALSE	1999999999	Photo-Frog	87bq2dgpoh93vcsjade78hubor
+.photofrog.co.za	TRUE	/	FALSE	1999999999	photofrog-vid	1182285
+printmyphotosgrahamstown.photofrog.co.za	TRUE	/	FALSE	1999999999	photofrog-test	1
+

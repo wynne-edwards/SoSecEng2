@@ -1,0 +1,41 @@
+@CHARSET "UTF-8";
+
+.text-pointer {
+    cursor: pointer;
+}
+
+.navbar-text {
+    color: #ffffff !important;
+}
+
+.no-margin-top {
+	margin-top: 0 !important;
+}
+
+span.back {
+	line-height: 45px;
+}
+
+.push-down-30 {
+	margin-top: 30px;
+}
+
+.push-down-25 {
+	margin-top: 25px;
+}
+
+.push-down-20 {
+	margin-top: 20px;
+}
+
+.push-down-15 {
+	margin-top: 15px;
+}
+
+.push-down-10 {
+	margin-top: 10px;
+}
+
+.push-down-5 {
+	margin-top: 5px;
+}
